@@ -1,1 +1,1 @@
-# floods-segmentation
+# Flood segmentation using machine learning
